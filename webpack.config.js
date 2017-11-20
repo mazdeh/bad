@@ -9,7 +9,7 @@ module.exports = {
   output: {
     publicPath: '/',
     path: path.resolve(`${__dirname}/dist`),
-    filename: 'react-starter.[chunkhash].js',
+    filename: 'bad.[chunkhash].js',
   },
   resolve: {
     extensions: ['.js', '.jsx'],
